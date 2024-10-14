@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Scam Watch Nepal",
   "version": "1.0",
-  "description": "Blocks specific Facebook / Instagram pages to prevent people from accessing scam pages.",
+  "description": "Prevent users from visiting Facebook / Instagram pages, YouTube channels, and websites that are known to scam people.",
   "permissions": ["declarativeNetRequest", "declarativeNetRequestWithHostAccess", "activeTab"],
   "host_permissions": ["*://*.facebook.com/*"],
   "declarative_net_request": {
