@@ -13,7 +13,7 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": {
-      "urlFilter": "*://*.facebook.com/profile.php?id=61565995941080",
+      "urlFilter": "*://*.facebook.com/profile.php?id=61565995941080*",
       "resourceTypes": ["main_frame"]
     }
   },
@@ -22,7 +22,7 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": {
-      "urlFilter": "*://*.facebook.com/profile.php?id=61565100726296",
+      "urlFilter": "*://*.facebook.com/profile.php?id=61565100726296*",
       "resourceTypes": ["main_frame"]
     }
   },
@@ -31,7 +31,7 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": {
-      "urlFilter": "*://*.facebook.com/profile.php?id=61565702037061",
+      "urlFilter": "*://*.facebook.com/profile.php?id=61565702037061*",
       "resourceTypes": ["main_frame"]
     }
   },
@@ -40,7 +40,97 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": {
-      "urlFilter": "*://*.facebook.com/profile.php?id=61560220021150",
+      "urlFilter": "*://*.facebook.com/profile.php?id=61560220021150*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=100090179935889*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/onlinemedia.nep*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=100093051896402*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/chitwanonlinemarket1*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=61565969021647*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=61567099952047*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=100078342078474*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=61558208129684*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=61554231686487*",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=61565273317314*",
       "resourceTypes": ["main_frame"]
     }
   }
