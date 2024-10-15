@@ -26,4 +26,13 @@
       "resourceTypes": ["main_frame"]
     }
   }
+  {
+    "id": 4,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=61565702037061",
+      "resourceTypes": ["main_frame"]
+    }
+  }
 ]
