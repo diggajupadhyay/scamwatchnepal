@@ -1,6 +1,6 @@
 {
   "name": "scamwatchnepal",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Scam Watch Nepal Chrome Extension and API",
   "scripts": {
     "start": "netlify dev",
