@@ -1,2 +1,41 @@
-_metadata/
+# Unnecessary directories
+extension/_metadata
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Netlify
+.netlify/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Chrome extension packaging
+*.crx
+*.pem
+
+# Temporary files
+*.tmp
+*.temp

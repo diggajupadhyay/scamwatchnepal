@@ -16,5 +16,14 @@
       "urlFilter": "*://*.facebook.com/profile.php?id=61565995941080",
       "resourceTypes": ["main_frame"]
     }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://*.facebook.com/profile.php?id=61565100726296",
+      "resourceTypes": ["main_frame"]
+    }
   }
 ]
